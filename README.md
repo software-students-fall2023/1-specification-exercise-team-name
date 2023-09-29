@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 
 Samuel Shally: https://github.com/SamuelShally
 
-Lemon Ruan: 
+Lemon Ruan: https://github.com/Lefie
 
 Ana Sofia Pacheco:
 
