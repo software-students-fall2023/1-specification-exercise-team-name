@@ -107,16 +107,13 @@ Based on the responses from 6 interviewees, we found that:
 
 - As a job seeker in the tech industry, I want access to a tool that helps me tailor my resume to match the specific requirements of different tech jobs and companies, making me a more competitive candidate.
     
-    ![Screen Shot 2023-09-29 at 11.26.41 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8f9e6587-509b-4d10-83ff-4413b61dc9ce/022006bf-a7fa-4ce8-ac2f-40bc04f10d1f/Screen_Shot_2023-09-29_at_11.26.41_PM.png)
-    
 
 **Leaving a Review**
 
 - As a job seeker, I want to be able to leave a review for a specific company after I finish interviewing for them to provide insights on the interview experience  so others can learn from my experience. 
 
-    ![Screen Shot 2023-09-29 at 11.23.19 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8f9e6587-509b-4d10-83ff-4413b61dc9ce/0758c6fe-8c52-4506-9adb-958acee85737/Screen_Shot_2023-09-29_at_11.23.19_PM.png)
 
 
 ## Clickable Prototype
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FlyoRr4rvF3rnwcEFMzse79%2FWireframe-for-job-matching%3Ftype%3Dwhiteboard%26node-id%3D0%253A1%26t%3DnNCEwG9HgjvNzYuu-1" allowfullscreen></iframe> 
+[View Figma Design](https://www.figma.com/file/lyoRr4rvF3rnwcEFMzse79/Wireframe-for-job-matching?type=whiteboard&node-id=0-1&t=XAn7Kq5rdYmCXYqE-0)  
