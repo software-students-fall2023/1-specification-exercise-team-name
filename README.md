@@ -107,13 +107,13 @@ Based on the responses from 6 interviewees, we found that:
 
 - As a job seeker in the tech industry, I want access to a tool that helps me tailor my resume to match the specific requirements of different tech jobs and companies, making me a more competitive candidate.
 
-    ![Diagram 1](1-specification-exercise-team-name/diagrams/diagram1.png)
+    ![Diagram 1](diagrams/diagram1.png)
 
 **Leaving a Review**
 
 - As a job seeker, I want to be able to leave a review for a specific company after I finish interviewing for them to provide insights on the interview experience  so others can learn from my experience. 
 
-    ![Diagram 2](1-specification-exercise-team-name/diagrams/diagram2.png)
+    ![Diagram 2](diagrams/diagram2.png)
 
 
 ## Clickable Prototype
