@@ -34,15 +34,13 @@ Based on the responses from 6 interviewees, we found that:
 - **Dislike of Multiple Accounts:** Job seekers express their dislike for having to create multiple accounts with different usernames and passwords for each job application. This process is cumbersome and time-consuming.
 - **Changing Resumes for Each Application:** Tailoring resumes for each job application is a time-consuming task that job seekers find frustrating. 
 
-
 ### Product Vision Statement
 
  To create a platform that matches tech workers with the right companies without all of the bloat of other job services, making it cleaner and easier to apply to a lot of listings.
 
-### User Requirements
+### User Requirements {.tabset .tabset-fade}
 
-
-#### Job Seeker 
+#### Job Seeker {.tabset .tabset-fade}
 
 **User Profile Creation**
 
@@ -84,7 +82,7 @@ Based on the responses from 6 interviewees, we found that:
 
 - As a job seeker, I want to be able to leave a review for a specific company after I finish interviewing for them to provide insights on the interview experience  so others can learn from my experience.
 
-#### Employer 
+#### Employer {.tabset .tabset-fade}
 
 **Setting up Company Profile**
 
@@ -102,7 +100,7 @@ Based on the responses from 6 interviewees, we found that:
 
 - As an employer, I want to only see applicants who match the necessities of the job listing so that the company can avoid hiring under-qualified employees. 
 
-### Activity Diagrams
+### Activity Diagrams {.tabset .tabset-fade}
 
 **Resume Customization**
 
@@ -115,7 +113,6 @@ Based on the responses from 6 interviewees, we found that:
 - As a job seeker, I want to be able to leave a review for a specific company after I finish interviewing for them to provide insights on the interview experience  so others can learn from my experience. 
 
     ![Diagram 2](diagrams/diagram2.png)
-
 
 ### Clickable Prototype
 
