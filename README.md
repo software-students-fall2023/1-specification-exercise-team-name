@@ -1,7 +1,5 @@
 # Specification Phase Exercise
 
-A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
-
 ## Team members
 
 Samuel Shally: https://github.com/SamuelShally
@@ -10,37 +8,34 @@ Lemon Ruan: https://github.com/Lefie
 
 Ana Sofia Pacheco: https://github.com/anaspacheco
 
-## Specifications {.tabset}
 
-### Stakeholders
-
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+## Stakeholders
 
 **Stakeholders:** Nour Siwar, Faith Best, Maya Nesen, Mary White, Rosie, Rasagnya Reddy Kondam
 
 Based on the responses from 6 interviewees, we found that: 
 
-**Their goals**: 
+#### Their goals: 
 
 - **Efficient Job Application Process:** 100% of respondents mentioned a goal of using a job board that streamlines the application process, allowing them to apply to multiple jobs without having to input their resume repeatedly. They also expressed interest in the feature of auto submitting applications
 - **Job Suggestions**: 100% of respondents expressed an interest in receiving job suggestions based on their skills and preferences, making it easier to discover relevant job opportunities
 - **Tailored Resumes**: 100% of respondents would appreciate tools that help them tailor their resumes effectively
 - **Access to Detailed Company Profiles**: The majority of the respondents (68%) believed that having access to comprehensive company profiles, including culture, interviewing process, and compensation data, is important when applying for jobs.
 
-**Their Frustrations:** 
+#### Their Frustrations: 
 
 - **Difficulty in Finding Referrals:** Job seekers find it challenging to locate referrals or connections within their desired companies, which can be crucial for getting their foot in the door.
 - **Skill Matching Issues:** They encounter difficulties in matching their skills with specific job requirements due to variations in skill names, missing skills in job descriptions, and the need to sift through lengthy job postings to find relevant skills.
 - **Dislike of Multiple Accounts:** Job seekers express their dislike for having to create multiple accounts with different usernames and passwords for each job application. This process is cumbersome and time-consuming.
 - **Changing Resumes for Each Application:** Tailoring resumes for each job application is a time-consuming task that job seekers find frustrating. 
 
-### Product Vision Statement
+## Product Vision Statement
 
  To create a platform that matches tech workers with the right companies without all of the bloat of other job services, making it cleaner and easier to apply to a lot of listings.
 
-### User Requirements {.tabset .tabset-fade}
+## User Requirements 
 
-#### Job Seeker {.tabset .tabset-fade}
+#### Job Seeker 
 
 **User Profile Creation**
 
@@ -82,7 +77,7 @@ Based on the responses from 6 interviewees, we found that:
 
 - As a job seeker, I want to be able to leave a review for a specific company after I finish interviewing for them to provide insights on the interview experience  so others can learn from my experience.
 
-#### Employer {.tabset .tabset-fade}
+#### Employer 
 
 **Setting up Company Profile**
 
@@ -100,7 +95,7 @@ Based on the responses from 6 interviewees, we found that:
 
 - As an employer, I want to only see applicants who match the necessities of the job listing so that the company can avoid hiring under-qualified employees. 
 
-### Activity Diagrams {.tabset .tabset-fade}
+## Activity Diagrams
 
 **Resume Customization**
 
@@ -114,6 +109,6 @@ Based on the responses from 6 interviewees, we found that:
 
     ![Diagram 2](diagrams/diagram2.png)
 
-### Clickable Prototype
+## Clickable Prototype
 
 [View Figma Design](https://www.figma.com/file/lyoRr4rvF3rnwcEFMzse79/Wireframe-for-job-matching?type=whiteboard&node-id=0-1&t=XAn7Kq5rdYmCXYqE-0)  
