@@ -10,8 +10,9 @@ Lemon Ruan: https://github.com/Lefie
 
 Ana Sofia Pacheco: https://github.com/anaspacheco
 
+## Specifications {.tabset}
 
-## Stakeholders
+### Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
@@ -34,14 +35,14 @@ Based on the responses from 6 interviewees, we found that:
 - **Changing Resumes for Each Application:** Tailoring resumes for each job application is a time-consuming task that job seekers find frustrating. 
 
 
-## Product Vision Statement
+### Product Vision Statement
 
  To create a platform that matches tech workers with the right companies without all of the bloat of other job services, making it cleaner and easier to apply to a lot of listings.
 
-## User Requirements
+### User Requirements
 
 
-### Job Seeker 
+#### Job Seeker 
 
 **User Profile Creation**
 
@@ -83,7 +84,7 @@ Based on the responses from 6 interviewees, we found that:
 
 - As a job seeker, I want to be able to leave a review for a specific company after I finish interviewing for them to provide insights on the interview experience  so others can learn from my experience.
 
-### Employer 
+#### Employer 
 
 **Setting up Company Profile**
 
@@ -101,7 +102,7 @@ Based on the responses from 6 interviewees, we found that:
 
 - As an employer, I want to only see applicants who match the necessities of the job listing so that the company can avoid hiring under-qualified employees. 
 
-## Activity Diagrams
+### Activity Diagrams
 
 **Resume Customization**
 
@@ -116,6 +117,6 @@ Based on the responses from 6 interviewees, we found that:
     ![Diagram 2](diagrams/diagram2.png)
 
 
-## Clickable Prototype
+### Clickable Prototype
 
 [View Figma Design](https://www.figma.com/file/lyoRr4rvF3rnwcEFMzse79/Wireframe-for-job-matching?type=whiteboard&node-id=0-1&t=XAn7Kq5rdYmCXYqE-0)  
