@@ -85,4 +85,6 @@ Based on the responses from 6 interviewees, we found that:
 
 ## Clickable Prototype
 
-[View Figma Design](https://www.figma.com/file/lyoRr4rvF3rnwcEFMzse79/Wireframe-for-job-matching?type=whiteboard&node-id=0-1&t=XAn7Kq5rdYmCXYqE-0)  
+[View Figma Design of Wireframe](https://www.figma.com/file/lyoRr4rvF3rnwcEFMzse79/Wireframe-for-job-matching?type=whiteboard&node-id=0-1&t=XAn7Kq5rdYmCXYqE-0)  
+
+[View Figma Design of a clickable prototype](https://www.figma.com/proto/wvYMz7OVXW8m6X06cn2UlY/mobile-app?type=design&node-id=108-420&t=wnagVYuh1Z4TMHLp-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=102%3A7&show-proto-sidebar=1&mode=design)
