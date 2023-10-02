@@ -75,7 +75,7 @@ Based on the responses from 6 interviewees, we found that:
 
 - As a job seeker in the tech industry, I want access to a tool that helps me tailor my resume to match the specific requirements of different tech jobs and companies, making me a more competitive candidate.
 
-    ![Diagram 1](diagrams/diagram1.png)
+    ![Diagram 1](diagrams/diagram.png)
 
 **Leaving a Review**
 
